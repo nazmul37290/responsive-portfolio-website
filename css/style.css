@@ -314,6 +314,13 @@ textarea {
   textarea {
     width: 70%;
   }
+
+  .section-description {
+    padding: 20px;
+  }
+  .section-title {
+    padding-top: 30px;
+  }
 }
 
 @media screen and (min-width: 767px) and (max-width: 992px) {
